@@ -1,0 +1,22 @@
+body {
+    background-color: #eceff1;
+}
+
+.logo {
+    margin: 10px;
+    width: 60px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.container {
+    margin: 20px auto;
+    padding: 15px;
+    
+}
+
+.notfound {
+    width: 100%;
+    height: 80vh;
+}
